@@ -1,4 +1,4 @@
-# 💱 Currency Converter
+#  Currency Converter
 
 A simple currency converter built using HTML, CSS, and JavaScript.
 
@@ -6,7 +6,7 @@ This project converts values between different currencies using live exchange ra
 
 ---
 
-## ✨ Features
+##  Features
 
 - Convert between multiple currencies
 - Live exchange rates
@@ -14,7 +14,7 @@ This project converts values between different currencies using live exchange ra
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - HTML
 - CSS
@@ -22,7 +22,7 @@ This project converts values between different currencies using live exchange ra
 
 ---
 
-## 🌐 API Used
+##  API Used
 
 - **ExchangeRate API**  
   https://www.exchangerate-api.com/
