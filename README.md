@@ -33,4 +33,4 @@ The app fetches real-time exchange rates using the base currency selected by the
 
 ## Live Demo:
 
-https://simple-currency-converter-js.vercel.app/
+https://simple-currency-converter-1.vercel.app/
